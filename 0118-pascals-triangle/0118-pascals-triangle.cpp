@@ -25,3 +25,5 @@ public:
         return FinalAns;
     }
 };
+
+// In Pascal's Triangle, the rows are typically numbered starting from 1, and the columns are numbered starting from 0.
